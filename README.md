@@ -13,23 +13,23 @@ A FastAPI-based RESTful API for managing food delivery orders with features like
 
 ## Setup Instructions
 
-### git clone <"GIT-REPO">
+`git clone <"GIT-REPO">`
 
 ## Create a virtual environment
 
-### python -m venv <"VIRTUAL ENVIRONMENT">
+`python -m venv <"VIRTUAL ENVIRONMENT">`
 
 ## activate macOS/Linux virtual environment
 
-### <"VIRTUAL ENVIRONMENT">/bin/activate
+`<"VIRTUAL ENVIRONMENT">/bin/activate`
 
 ## activate Windows virtual environment
 
-### <"VIRTUAL ENVIRONMENT">\Scripts\activate
+`<"VIRTUAL ENVIRONMENT">\Scripts\activate`
 
 ## Install required packages
 
-### pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ##### If you don’t have a requirements.txt file, create one with the following content:
 
@@ -38,7 +38,7 @@ A FastAPI-based RESTful API for managing food delivery orders with features like
 
 ## Running the API Server
 
-### uvicorn main:app --reload
+`uvicorn main:app --reload`
 
 - Replace main with your Python filename (without .py)
 - The --reload option automatically restarts the server on code changes.
