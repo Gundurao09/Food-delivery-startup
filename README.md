@@ -17,15 +17,13 @@ A FastAPI-based RESTful API for managing food delivery orders with features like
 
 ## Create a virtual environment
 
-`python -m venv <"VIRTUAL ENVIRONMENT">`
+`python -m venv <"VIRTUAL_ENV_NAME">`
 
-## activate macOS/Linux virtual environment
-
-`<"VIRTUAL ENVIRONMENT">/bin/activate`
-
-## activate Windows virtual environment
-
-`<"VIRTUAL ENVIRONMENT">\Scripts\activate`
+## Activate virtual environment
+### For macOS/Linux:
+`<"VIRTUAL_ENV_NAME">/bin/activate`
+### For Windows:
+`<"VIRTUAL_ENV_NAME">\Scripts\activate`
 
 ## Install required packages
 
