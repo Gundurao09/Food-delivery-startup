@@ -13,7 +13,7 @@ A FastAPI-based RESTful API for managing food delivery orders with features like
 
 ## Setup Instructions
 
-`git clone <"GIT-REPO">`
+`git clone <"GIT_REPO">`
 
 ## Create a virtual environment
 
